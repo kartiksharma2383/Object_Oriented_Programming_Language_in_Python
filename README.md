@@ -1,1 +1,1 @@
-# Object_Oriented_Programming_Language_in_Python
+This repository covers core Object-Oriented Programming (OOP) concepts in Python. It includes fundamental topics like Classes, Objects, Encapsulation, and Inheritance, along with advanced concepts such as Polymorphism, Abstraction, and Iterators. Each notebook demonstrates these principles with clear examples, making it easier to understand how OOP enhances code reusability, modularity, and scalability.
